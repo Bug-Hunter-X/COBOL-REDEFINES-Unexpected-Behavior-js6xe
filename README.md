@@ -1,0 +1,1 @@
+This repository demonstrates a subtle but common error in COBOL programs involving the REDEFINES clause. The bug showcases how redefining data areas with varying data types can lead to unexpected results if not carefully managed.  The solution offers a corrected approach to avoid such data corruption issues.
